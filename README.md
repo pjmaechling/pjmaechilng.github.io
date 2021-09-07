@@ -1,2 +1,2 @@
-# pjmaechilng.github.io
+# pjmaechling.github.io
 UCVM sphinx documentation repo
