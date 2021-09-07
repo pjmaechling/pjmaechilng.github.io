@@ -6,6 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+UCVM
+======
+
+**UCVM** is a scientific application program that enable researchers to access properties of the earth crust as defined in several different, alternative, seismic velocity models. UCVM users input 1) seismic velocity model name, and 2) geospatial point (lat,lon,depth) and UCVM returns earth material properties (Vp, Vs, and density) for the given point from the selected seismic velocity mode
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
